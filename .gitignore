@@ -1,0 +1,4 @@
+export_gtfs_voyages/
+export-ter-gtfs-last/
+data_cleaned/*.csv
+graph
